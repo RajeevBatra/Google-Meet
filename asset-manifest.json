@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Google-Meet/static/css/main.4bfadac5.css",
+    "main.js": "/Google-Meet/static/js/main.eaf98969.js",
+    "static/js/787.4b564826.chunk.js": "/Google-Meet/static/js/787.4b564826.chunk.js",
+    "index.html": "/Google-Meet/index.html",
+    "main.4bfadac5.css.map": "/Google-Meet/static/css/main.4bfadac5.css.map",
+    "main.eaf98969.js.map": "/Google-Meet/static/js/main.eaf98969.js.map",
+    "787.4b564826.chunk.js.map": "/Google-Meet/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bfadac5.css",
+    "static/js/main.eaf98969.js"
+  ]
+}
