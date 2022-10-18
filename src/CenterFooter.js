@@ -2,7 +2,7 @@ import React from 'react'
 
 function CenterFooter() {
   return (
-    <div>
+    <div className='centerFooter'>
         <button className='button'><span class="material-symbols-outlined">mic</span></button>
         <button className='button'><span class="material-symbols-outlined">videocam</span></button>
         <button className='button'><span class="material-symbols-outlined">closed_caption</span></button>

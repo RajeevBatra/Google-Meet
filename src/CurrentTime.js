@@ -25,13 +25,13 @@ export default class CurrentTime extends Component {
   tick() {
     this.setState({
       date: new Date(),
-      time: this.state.date.getHours() + ' : ' + (this.state.date.getMinutes()<10?'0'+this.state.date.getMinutes():this.state.date.getMinutes())
+      time: this.state.date.getHours() + ':' + (this.state.date.getMinutes()<10?'0'+this.state.date.getMinutes():this.state.date.getMinutes())
     });
   }
 
   render() {
     return (
-      <><p className='time'>{this.state.time}</p></>
+      <><span className='time'>{this.state.time}</span></>
     )
   }
 }

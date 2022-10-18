@@ -4,6 +4,7 @@
 
 html, body, #app,#root {
   height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -39,15 +40,26 @@ body {
 }
 .time{
   color: #FFFFFF;
-  position: absolute;
-  left: 2%;
-  bottom: 2%;
 }
 .makeid{
   color: #FFFFFF;
+}
+.leftFooter{
   position: absolute;
-  left: 7%;
-  bottom: 2%;
+  display: inline-block;
+  left: 0%;
+  top: 50%;
+  transform: translate(-0%, -50%);
+  color: #FFFFFF;
+}
+.leftFooter span{
+  padding: 0 12px;
+}
+.centerFooter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .button {
   border-radius: 50%;
@@ -55,11 +67,8 @@ body {
   border: none;
   color: white;
   padding: 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin-left: 12px;
   object-fit: none;
+  margin: 4px;
 }
 
 .buttonphone{
@@ -68,11 +77,8 @@ body {
   border: none;
   color: white;
   padding: 8px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin-left: 14px;
   object-fit: none;
+  margin: 4px;
 }
 
 .button:hover ,.buttonphone:hover{
@@ -81,10 +87,11 @@ body {
 
 .rightFooter{
   position: absolute;
-  bottom: 30%;
   right: 1%;
+  top: 50%;
   color: #FFFFFF;
+  transform: translate(-0%, -50%);
 }
 .rightFooter span{
-  padding: 0 12px;
+  padding:  12px;
 }
