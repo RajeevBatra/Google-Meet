@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Google-Meet/static/css/main.4bfadac5.css",
-    "main.js": "/Google-Meet/static/js/main.eaf98969.js",
+    "main.css": "/Google-Meet/static/css/main.5f69d8dd.css",
+    "main.js": "/Google-Meet/static/js/main.9d46df7f.js",
     "static/js/787.4b564826.chunk.js": "/Google-Meet/static/js/787.4b564826.chunk.js",
     "index.html": "/Google-Meet/index.html",
-    "main.4bfadac5.css.map": "/Google-Meet/static/css/main.4bfadac5.css.map",
-    "main.eaf98969.js.map": "/Google-Meet/static/js/main.eaf98969.js.map",
+    "main.5f69d8dd.css.map": "/Google-Meet/static/css/main.5f69d8dd.css.map",
+    "main.9d46df7f.js.map": "/Google-Meet/static/js/main.9d46df7f.js.map",
     "787.4b564826.chunk.js.map": "/Google-Meet/static/js/787.4b564826.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bfadac5.css",
-    "static/js/main.eaf98969.js"
+    "static/css/main.5f69d8dd.css",
+    "static/js/main.9d46df7f.js"
   ]
 }
